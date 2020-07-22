@@ -1,0 +1,318 @@
+#al{
+  margin-left: 0px;
+  padding-left: 0px;
+  align-content: center;
+}
+/* Header */
+.Header{
+  height: 65px;
+  background: #FFFFFF;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  left: 250px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.a{
+  margin-top: 8px;
+}
+.ml{
+  margin-left:30px;
+}
+
+.dib{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-right: 60px;
+  line-height: 15px;
+}
+
+/* image TYP */
+
+.img1{
+  height: 40px;
+  width: 230px;
+  margin-left: 20px;
+  margin-top: 9px;
+  
+}
+
+/* body */
+body
+{
+  background-color: whitesmoke;
+  width: 100%;
+  height: 100%;
+}
+
+/* footer */
+.footer{
+  background-color: #556364;
+  height: 50px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  margin-top: 653px;
+  position: absolute;
+}
+
+#flex{
+  flex-direction: row;
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  height: 50px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+
+}
+
+.c{
+  padding-left: 100px;
+  padding-top: 6px;
+}
+
+.d{
+  padding-right: 100px;
+  padding-top: 5px;
+  flex-direction: row;
+  display: inline-flex;
+}
+
+pre{
+font-family: Amiri;
+font-style: normal;
+font-weight: normal;
+font-size: 17px;
+display: flex;
+align-items: center;
+color:black;
+}
+
+/* Navbar */
+
+.Navbar{
+  background: rgba(30, 114, 120, 0.78);
+  width: 250px;
+  height: 673px;
+  left: 0px;
+  top: 0px;
+  position: absolute;
+}
+
+/*elon musk pic */
+
+.img3{
+  height: 120px;
+  width: 120px;
+  margin-top: 20px;
+  border-radius: 70px;
+}
+
+
+
+.box1{
+  line-height: 10px;
+}
+
+#prof{
+  font-family: Bree Serif;
+font-style: normal;
+font-weight: normal;
+color: #E2FDFF;
+}
+
+#name{
+font-family: Bree Serif;
+font-style: normal;
+font-weight: bold;
+font-size: 15px;
+}
+
+
+.container{
+width: 250px;
+height: 55px;
+padding: 1px 0px 1px 1px;
+background: #0E5357;
+color: #E2FDFF;
+line-height: 17px;
+margin-top: 6px;
+display: flex;
+flex-direction: row;
+justify-content: center;
+}
+
+i{
+  margin-top: 14px;
+  margin-right: 15px;
+}
+
+button{
+  border: none;
+  font-family: Bree serif;
+  font-size: 15px;
+}
+
+button:hover{
+  background-color: blanchedalmond;
+  color: #0E5357;
+  cursor: pointer;
+  
+}
+
+#sp{
+  color: #778283;
+  background-color: black;
+  font-weight: 600;
+  height: 52px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+#sp:hover{
+  color: black;
+  background-color: orange;
+  font-weight: 1000px;
+}
+
+.m{
+  margin-top: 70px;
+}
+
+.list{
+  position: absolute;
+  width: 300px;
+  height: 450px;
+  left: 350px;
+  top: 140px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.list1{
+  position: absolute;
+  width: 300px;
+  height: 450px;
+  left: 750px;
+  top: 140px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.list2{
+  position: absolute;
+  width: 300px;
+  height: 450px;
+  left: 1150px;
+  top: 140px;
+  background: #FFFFFF;
+  box-shadow: inset 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.planbox1{
+  position: absolute;
+  width: 260px;
+  height: 85px;
+  left: 20px;
+  top: 20px;
+  background: linear-gradient(180deg, #EBEF17 26.56%, #42EF17 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+  
+}
+
+.planbox2{
+  position: absolute;
+  width: 260px;
+  height: 85px;
+  left: 20px;
+  top: 20px;
+  background: linear-gradient(180deg, #DA1313 0%, #F09813 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.planbox3{
+  position: absolute;
+  width: 260px;
+  height: 85px;
+  left: 20px;
+  top: 20px;
+  background: linear-gradient(180deg, #581EB7 22.92%, #A610DB 100%);
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  border-radius: 10px;
+}
+
+.buy1{
+  position: absolute;
+  width: 300px;
+  height: 90px;
+  left: 0px;
+  top: 360px;
+  background: #006266;
+  border-radius: 10px;
+}
+
+.buy1:hover{
+  background-color: turquoise;
+}
+
+#rs1{
+  margin-left: 68px;
+  margin-top:120px;
+  font-size: xxx-large;
+  align-content: center;
+}
+
+#val{
+  font-size: 25px;
+  font-weight: normal;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+#val1{
+  font-size: 20px;
+  font-weight: thin;
+  font-family: serif;
+  color: #778283;
+  margin-top: 20px;
+  
+}
+
+#head{
+  font-size: 28px;
+  font-weight: bolder;
+  font-family: Bree Serif;
+  color: #009432;
+  margin-left: 45px;
+  margin-top: 26px;
+}
+
+
+#head1{
+  font-size: 28px;
+  font-weight: bolder;
+  font-family: sans-serif;
+  color: white;
+  margin-top: 26px;
+}
+
+
+#head2{
+  font-size: 28px;
+  font-weight: bolder;
+  font-family: Bree Serif;
+  color: darkred;
+  margin-left: 45px;
+  margin-top: 26px;
+}
+
+#head3{
+  font-size: 28px;
+  font-weight: bolder;
+  font-family: Bree Serif;
+  color: black;
+  margin-left: 60px;
+  margin-top: 26px;
+}
